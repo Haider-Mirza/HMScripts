@@ -1,0 +1,24 @@
+#+TITLE: HM-Scripts
+#+AUTHOR: Haider Mirza
+
+* Table of contents: :toc:
+- [[#who-am-i][Who am I?]]
+- [[#what-are-these-scripts][What are these scripts?]]
+- [[#the-main-catagories][The main catagories]]
+  - [[#archinstall][Archinstall]]
+  - [[#hm-scripts][HM-Scripts]]
+
+* Who am I?
+#+begin_src
+  _   _ __  ___
+ | | | |  \/  |
+ | |_| | |\/| | My Github: https://github.com/Ha1derMirza
+ |  _  | |  | | My Matrix: @haider.mirza:matrix.org
+ |_| |_|_|  |_|
+#+end_src
+My Name is Haider Mirza and I am a 3D artist and Programmer.
+All my projects are hosted on github and are free and open-source.
+Most of my projects are licensed under GPL V3 license.
+
+* What are HM-Scripts?
+These are scripts I composed in Bash. I usually call upon them in my XMonad config which is also on my github ([[https://github.com/Ha1derMirza/.dotfiles][Dotfiles]]) Most of the scripts are used with Dmenu and optionally dunst and libnotify so Make sure you have it installed. If you dont want to use notifcations you can disable Dunst and Libnotify by removing certain lines. Those lines are shown in the comments of the script. Documention on dunst ald libnotify can be found here: [[https://wiki.archlinux.org/title/Desktop_notifications#Libnotify][Libnotify]], [[https://wiki.archlinux.org/title/Dunst][Dunst]]. Dmenu's documentation can also be found here: [[https://tools.suckless.org/dmenu/][Dmenu]]. Here is a link to this repository: [[https://github.com/Ha1derMirza/Scripts][Scripts]]. Pull requests and reporting Issues are appreciated
