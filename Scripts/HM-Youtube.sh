@@ -6,4 +6,7 @@
 #|_| |_|_|  |_|
 
 # NOTE: Dependencies: libnotify, dunst, dmenu.
-# Dunst and libnotify are optional if you remove line 23
+# Dunst and libnotify are optional if you remove line 
+
+video=$(echo -e "" | dmenu -i -p 'My Enter input file to link: ')
+mpv ${video}
